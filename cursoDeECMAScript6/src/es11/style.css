@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+}
+
+button{
+    padding: 1em 2em;
+    width: 90vw;
+    height: 90vh;
+    margin: 0 auto;
+}
