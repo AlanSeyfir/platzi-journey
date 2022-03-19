@@ -10,6 +10,8 @@ Hi! Because I want to pressure myself in to practice more about technology, I ad
 My goal to learn React however I need to enhanced my skills with other technologies
 * **Frontend**
   * HTML, CSS ✅
+    * Definitive Course of HTML & CSS ✅ 
+    * Course of Frontend Developer ✅ _Pending Exam_
   * Javascript
     * ECMAScript 6+ ✅ 
     * Course of Practice Javascript ✅ _Pending Exam_
