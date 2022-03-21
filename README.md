@@ -21,6 +21,7 @@ My goal to learn React however I need to enhanced my skills with other technolog
 * **Other**
   * Configure Environment (Oh my zsh, vs code extensions, etc) ✅
   * Git and Github 📒 _Avoid making mistakes in git bruh_
+  * NPM 👀
 
 <hr>
 
