@@ -15,13 +15,17 @@ My goal to learn React however I need to enhanced my skills with other technolog
   * Javascript
     * ECMAScript 6+ ✅ 
     * Course of Practice Javascript ✅ _Pending Exam_
-    * Asyncronism 📒
+    * Asyncronism ✅ _Pending Exam_
+  * React
+    * Curso Practico de React.Js 📒
 * **Programming Languages**
   * Python 👀 _delaying smh xd_
 * **Other**
   * Configure Environment (Oh my zsh, vs code extensions, etc) ✅
   * Git and Github 📒 _Avoid making mistakes in git bruh_
   * NPM ✅
+  * Webpack 
+    * Curso de Webpack 👀
 
 <hr>
 
